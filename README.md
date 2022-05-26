@@ -2,7 +2,7 @@
 
 ## OOP PHP
 
-<p>object-oriented programming atau OOP adalah suatu metode pemrograman yang berorientasi pada objek</p>
+<p>OOP (Object) Oriented Programming adalah jenis pemrograman yang menggunakan objek-objek berisi properti dan method. Dalam OOP, programmer menggunakan class sebagai blue print dari suatu objek. Dalam class, variabel disebut properti dan function disebut dengan method.</p>
 
 <h2>class & objek</h2>
 
