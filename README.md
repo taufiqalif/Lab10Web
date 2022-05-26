@@ -2,4 +2,4 @@
 
 ## OOP
 
-<p>OOP merupakan suatu metode pemrograman yang berorientasi kepada objek.</p>
+<p>object-oriented programming atau OOP adalah suatu metode pemrograman yang berorientasi pada objek</p>
